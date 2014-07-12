@@ -7,6 +7,7 @@ The DDK is an open-source hardware and software toolchain designed with hardware
 This page provides an overview of the DDK's core features as well as a several use-cases.
 
 ## Key Features
+
 * Low cost development and attack-platform
 * ARM MCU + FPGA + FTDI USB UART
 * Easy access to I/O
@@ -17,6 +18,7 @@ This page provides an overview of the DDK's core features as well as a several u
 * 5V USB-Bus-powered device, optionally over a USB Y-Cable
 
 ### LPC17 family Cortex-M3 ARM
+
 * Up to three bi-directional UARTs to the FPGA
 * Dedicated UART interface to the PC via FTDI USB
   - Provides Command Line Interface for user interaction
@@ -25,6 +27,7 @@ This page provides an overview of the DDK's core features as well as a several u
 * Control and configuration of all onboard- and FPGA-peripherals
 
 ### FPGA
+
 * USB upgradable bit-stream
 * 48 GPIO, eight channels with six bi-directional lines
 * Wishbone compatible internal bus

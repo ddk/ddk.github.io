@@ -1,9 +1,7 @@
 ---
 layout: about
-title: DDK: Use-Cases
+title: Use-Cases
 ---
-
-## Possible Use-cases
 
 The DDK is an open-source hardware and software toolchain designed with hardware reverse-engineering and security analysis in mind.
 This page provides an overview of the DDK's core features as well as a several use-cases.

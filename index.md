@@ -24,6 +24,7 @@ The project is separated into several repositories.
 * [ddk-arm](ddk-arm) - Source files for building the ARM firmware.
 * [ddk-fpga](ddk-fpga) - Source files for building the FPGA bitstream.
 * [ddk-hardware](ddk-hardware) - CAD design files for the PCB layout and schematics.
+* [lpcflash](https://github.com/ddk/lpcflash) - Command line tool for flashing LPC ARM microcontrollers.
 
 ## Use-cases
 

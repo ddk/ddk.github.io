@@ -11,7 +11,7 @@ His academic research focuses on developing new and novel techniques for semi an
 Most recently, Dmitry was involved in identifying vulnerabilities in the most wide-spread Phyiscally Unclonable Function (PUF) schemes. 
 
 Website: [http://nedos.net](http://nedos.net)  
-Twitter: [@nedos](http://twitter.com/nedos)
+Twitter: [@nedos](http://twitter.com/nedos)  
 Email: `dmitry <at> h.rdw.re`
 
 ## Thorsten Schroder

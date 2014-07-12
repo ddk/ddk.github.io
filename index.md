@@ -53,6 +53,8 @@ Just contact us by email: `datenkrake <at> dev.io`.
 To stay up to date, follow us on Twitter!
 Follow [@DieDatenkrake](http://twitter.com/diedatenkrake) for news on upcoming trainings and conferences where you can get buy a DDK.
 While you're at it, follow [@nedos](http://twitter.com/nedos) and [@br3t](http://twitter.com/br3t), the creators of the DDK.
+Who the heck are we?
+Chekout the [about the authors](authors) page.
 
 ## Ordering
 

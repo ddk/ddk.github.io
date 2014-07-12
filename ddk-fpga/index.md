@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: repo
 title: ddk-fpga
 ---
 

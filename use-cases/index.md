@@ -1,5 +1,5 @@
 ---
 layout: about
-title: use-cases
+title: Use-Cases
 ---
 

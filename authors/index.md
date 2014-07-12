@@ -12,6 +12,7 @@ Most recently, Dmitry was involved in identifying vulnerabilities in the most wi
 
 Website: [http://nedos.net](http://nedos.net)  
 Twitter: [@nedos](http://twitter.com/nedos)
+Email: `dmitry <at> h.rdw.re`
 
 ## Thorsten Schroder
 

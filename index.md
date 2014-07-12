@@ -34,14 +34,21 @@ Check out our list of [use-cases](use-cases).
 
 New to embedded security?
 Never done HDL before? 
-Want to learn how to use programmable hardware professionally?
-Check out our [trainings page](trainings) and consider taking it.
-
-Are you an embedded hardware vendor and would like a training on-site?
-Would you like to have a training tuned specifically to the kind of problems you face day to day?
-Not a problem, just get in touch with us by email.
+Want to learn how to use programmable logic for your own applications?
+For security applications commercially available tools often just don't cut it.
+We teach students how to build custom tools for their field of security analysis.
+Consider taking one of [our trainings](trainings).
 
 ## Contact
+
+Are you an embedded hardware vendor?
+Can't justify the cost of flying your design team to take the training at a security conference?
+Rather have a training tailored to the problems that your company faces day to day?
+Not a problem!
+We do on-site trainings as well!
+Just contact us by email: `datenkrake <at> dev.io`.
+
+## Follow us
 
 To stay up to date, follow us on Twitter!
 Follow [@DieDatenkrake](http://twitter.com/diedatenkrake) for news on upcoming trainings and conferences where you can get buy a DDK.

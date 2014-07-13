@@ -47,7 +47,7 @@ Can't justify the cost of flying your design team to take the training at a secu
 Rather have a training tailored to the problems that your company faces day to day?
 Not a problem!
 We do on-site trainings as well!
-Just contact us by email: `datenkrake <at> dev.io`.
+Just contact us by email: <a href="javascript:linkTo_UnCryptMailto('nbjmup;ebufolsblfAefw/jp');">datenkrake [at] dev [dot] io</a>
 
 ## Follow us
 

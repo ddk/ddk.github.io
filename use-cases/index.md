@@ -9,7 +9,7 @@ If you're interested in a more detailed description of what the DDK can be used 
 
 ## Key Features
 
-* Low cost development and attack-platform
+### Low cost development and attack-platform
 * ARM MCU + FPGA + FTDI USB UART
 * Easy access to I/O
   - RJ-45 expansion jacks with +5V and GND
@@ -36,23 +36,23 @@ If you're interested in a more detailed description of what the DDK can be used 
 
 ## Example Use-cases
 
-* Parallel analysis
-  - Fuzzing
-    * Automatic target crash detection
-    * Automatic hardware reset of target
+### Parallel analysis
+* Fuzzing
+  - Automatic target crash detection
+  - Automatic hardware reset of target
 
-  - Glitching
-    * Expansion jacks provide easy interface to targets
-    * Onboard input protection
+* Glitching
+  - Expansion jacks provide easy interface to targets
+  - Onboard input protection
             
     
-* Instrumentation
-  - Passive/Active analysis of embedded busses
-  - Timing-critical analysis applications
-  - Hardware triggering
-  - Analysis of proprietary protocols
+### Instrumentation
+* Passive/Active analysis of embedded busses
+* Timing-critical analysis applications
+* Hardware triggering
+* Analysis of proprietary protocols
 
-* Hardware-offloading
-  - Real time analysis
-  - Hardware event filters
-  - Serialized output of relevant data
+### Hardware-offloading
+* Real time analysis
+* Hardware event filters
+* Serialized output of relevant data

@@ -75,19 +75,23 @@ The [krake_port][krake_port] module is a simple example of a such a module.
 The [krake_port][krake_port] utilizes all 6 available GPIO pins available per channel.
 This module implements bit banging, as well as the capability to output clocks generated on the DDK.
 
+
+
 The DDK architecture utilizes the following signals per channel:
 
-	input wire        clk_i,  // Wishbone clock
-	input wire        rst_i,  // Wishbone reset
-	output reg        ack_o,  // Wishbone module ack
-	input wire [7:0]  dat_i,  // Wishbone data input
-	input wire [3:0]  adr_i,  // Wishbone address input
-	output reg [7:0]  dat_o,  // Wishbone data output
-	input wire        stb_i,  // Wishbone strobe
-	input wire        we_i,   // Wishbone write enable
-	input wire [5:0]  ch_in,  // Channel I/O input
-	output reg [5:0]  ch_out, // Channel I/O output
-	output reg [5:0]  ch_oe,  // Channel I/O output enable
+{% highlight verilog linenos %}
+input wire        clk_i,  // Wishbone clock
+input wire        rst_i,  // Wishbone reset
+output reg        ack_o,  // Wishbone module ack
+input wire [7:0]  dat_i,  // Wishbone data input
+input wire [3:0]  adr_i,  // Wishbone address input
+output reg [7:0]  dat_o,  // Wishbone data output
+input wire        stb_i,  // Wishbone strobe
+input wire        we_i,   // Wishbone write enable
+input wire [5:0]  ch_in,  // Channel I/O input
+output reg [5:0]  ch_out, // Channel I/O output
+output reg [5:0]  ch_oe,  // Channel I/O output enable
+{% endhighlight %}
 
 By replacing instances of the krake_port module in the [core](https://github.com/ddk/ddk-fpga/blob/master/hdl/ddk_core.v#L152) no further modifications to the core are necessary.
 It is best practice to explicitly set channel I/O pins to disabled, i.e. ```ch_oe[0] <= 1'b0;```.

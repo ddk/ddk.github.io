@@ -31,6 +31,10 @@ The project is separated into several repositories.
 Not sure if the DDK is the right project for you?
 Check out our list of [use-cases](use-cases).
 
+Here are some projects that use the DDK:
+
+* [DDK-based glitcher](https://github.com/rgsilva/ddk-fpga)
+
 ## Trainings
 
 New to embedded security?

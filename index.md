@@ -5,14 +5,14 @@ title: Die Datenkrake
 
 ## What is it?
 
+![Die Datenkrake](images/ddk_crop.jpg)
+
 Die Datenkrake (DDK) is an Open Source Hardware USB peripheral for hardware analysis.
 The DDK integrates an ARM Cortex M3 microcontroller and a Field Programmable Gate Array (FPGA) into a single fully-programmable platform.
 With the FPGA, it is possible to implement additional functionality for the ARM MCU such as additional I/O interfaces.
 This makes it possible to process proprietary protocols in real-time.
 The well-defined bus interface also makes it substantially easier to write custom HDL modules for the FPGA.
 Both the FPGA and ARM can be programmed via the integrated USB-serial interface without the need for additional programming devices.
-
-![Die Datenkrake](images/ddk_crop.jpg)
 
 ## Project structure
 

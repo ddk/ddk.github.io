@@ -23,6 +23,8 @@ The DDK currently utilizes a Microsemi ProASIC3 Nano 125 [A3PN125][datasheet] FP
 
 ## Hardware Design
 
+![DDK Architecutre](../images/ddk_arch.png)
+
 The hardware is designed to provide as much flexibility as possible to custom applications.
 The ARM and the FPGA share the following connections:
 

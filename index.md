@@ -43,7 +43,7 @@ Want to learn how to use programmable logic for your own applications?
 For security applications commercially available tools often just don't cut it.
 We teach students how to build custom tools for their field of security analysis.
 
-Trainings are now being [offered regularly](https://toothless.co/trainings/).
+Trainings are now being [offered regularly](http://toothless.co/trainings/).
 
 ## Contact
 
